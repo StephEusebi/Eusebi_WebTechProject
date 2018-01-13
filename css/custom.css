@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+footer {
+	background-color: black;
+	padding: .5% 2%;
+	color: white;
+	margin: 30px 0;
+}
+
+.bblogo {
+	margin: 12% 2% 2% 0%;
+}
+
+.bannerad{
+	margin: 13% 4% 4% 0%;
+}
+
+.text-left img {
+	padding-left: 4rem;
+	border-color: white;
+}
+
+.restaurant {
+	padding-left: 20rem;
+}
+.cap {
+	padding-left: 20rem;
+}
